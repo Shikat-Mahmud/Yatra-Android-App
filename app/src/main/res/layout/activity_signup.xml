@@ -74,7 +74,7 @@
           android:inputType="textPersonName"
           android:padding="20dp"
           android:textColorHint="@color/lightWhite"
-          android:textSize="24sp"
+          android:textSize="20sp"
           tools:layout_editor_absoluteX="2dp"
 
           />
@@ -108,7 +108,7 @@
           android:inputType="textPersonName"
           android:padding="20dp"
           android:textColorHint="@color/lightWhite"
-          android:textSize="24sp"
+          android:textSize="20sp"
           tools:layout_editor_absoluteX="2dp"
 
           />
@@ -142,7 +142,7 @@
           android:inputType="textEmailAddress"
           android:padding="20dp"
           android:textColorHint="@color/lightWhite"
-          android:textSize="24sp"
+          android:textSize="20sp"
           tools:layout_editor_absoluteX="2dp" />
     </com.google.android.material.textfield.TextInputLayout>
     <!--    <EditText-->
@@ -225,7 +225,7 @@
           android:inputType="textPassword"
           android:padding="20dp"
           android:textColorHint="@color/lightWhite"
-          android:textSize="24sp"
+          android:textSize="20sp"
           tools:layout_editor_absoluteX="2dp" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -255,7 +255,7 @@
           android:inputType="textPassword"
           android:padding="20dp"
           android:textColorHint="@color/lightWhite"
-          android:textSize="24sp"
+          android:textSize="20sp"
           tools:layout_editor_absoluteX="2dp" />
     </com.google.android.material.textfield.TextInputLayout>
 
