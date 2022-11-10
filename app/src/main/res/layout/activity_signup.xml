@@ -64,7 +64,7 @@
       <com.google.android.material.textfield.TextInputEditText
           android:id="@+id/userFirstNames"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
+          android:layout_height="60dp"
           android:layout_marginStart="20dp"
           android:layout_marginTop="44dp"
           android:layout_marginEnd="20dp"
@@ -98,7 +98,7 @@
       <com.google.android.material.textfield.TextInputEditText
           android:id="@+id/userLastName"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
+          android:layout_height="60dp"
           android:layout_marginStart="20dp"
           android:layout_marginTop="20dp"
           android:layout_marginEnd="20dp"
@@ -132,7 +132,7 @@
       <com.google.android.material.textfield.TextInputEditText
           android:id="@+id/userEmail"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
+          android:layout_height="60dp"
           android:layout_marginStart="20dp"
           android:layout_marginTop="20dp"
           android:layout_marginEnd="20dp"
@@ -215,7 +215,7 @@
       <com.google.android.material.textfield.TextInputEditText
           android:id="@+id/password"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
+          android:layout_height="60dp"
           android:layout_marginStart="20dp"
           android:layout_marginTop="20dp"
           android:layout_marginEnd="20dp"
@@ -245,7 +245,7 @@
       <com.google.android.material.textfield.TextInputEditText
           android:id="@+id/confirmPassword"
           android:layout_width="match_parent"
-          android:layout_height="wrap_content"
+          android:layout_height="60dp"
           android:layout_marginStart="20dp"
           android:layout_marginTop="20dp"
           android:layout_marginEnd="20dp"
